@@ -1,0 +1,29 @@
+.hero {
+  background-image: url('https://images.pexels.com/photos/850602/pexels-photo-850602.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+  background-size: cover; 
+  width: 100vw;
+  height: 100vh;
+}
+
+.navbar {
+  background-color: #ff0000;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  color: green;
+}
+
+.unit {
+  margin: 20% 2%;
+}
+
+.paragraph {
+  text-align: center;
+}
+
+p {
+  color: #FFFAFA;
+  font-size: 22px;
+  text-align: center;
+}
