@@ -28,5 +28,5 @@ var deadline = alert('Dec 25, 2018 00:01:00').setTimeout();
 
 setTimeout( 
   function() 
-  { alert("Merry Christmass"); 
+  { alert("Merry Christmas"); 
   }, 10000);
