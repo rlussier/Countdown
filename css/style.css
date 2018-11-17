@@ -15,8 +15,14 @@
   text-align: center;
 }
 
+.card-body {
+  background-color: #F8B229;
+  border-radius: 2px solid #EA4630;
+}
+
 .unit {
   margin: 20% 2%;
+  font-size: 18px;
 }
 
 .paragraph {
