@@ -1,4 +1,5 @@
 alert('Countdown to Christmas');
+alert('What will Santa bring you?');
 
 var countDownTil = new Date('Dec 25, 2018 00:01:00').getTime();
 
