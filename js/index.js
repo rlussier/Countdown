@@ -21,4 +21,7 @@ var tick =  setInterval(function() {
   
 }, 1000);
 
-var message = prompt("Merry Christmas");
+setTimeout( 
+  function() 
+  { alert("Merry Christmass"); 
+  }, 10000);
