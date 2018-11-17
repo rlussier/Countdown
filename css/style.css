@@ -1,5 +1,5 @@
 .hero {
-  background-image: url('https://images.pexels.com/photos/850602/pexels-photo-850602.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+  background-color: linear-gradient(40%, green, red);
   background-size: cover; 
   width: 100vw;
   height: 100vh;
