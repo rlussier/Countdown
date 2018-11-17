@@ -20,3 +20,5 @@ var tick =  setInterval(function() {
   document.getElementById("seconds").innerHTML = seconds;
   
 }, 1000);
+
+var message = prompt("Merry Christmas");
