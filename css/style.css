@@ -15,6 +15,12 @@
   text-align: center;
 }
 
+.card-header{
+  font-size: 28px;
+  color: #BB2528;
+  background-color: #165B33;
+}
+
 .card-body {
   background-color: #F8B229;
   border-radius: 2px solid #EA4630;
