@@ -1,3 +1,5 @@
+alert('Countdown to Christmas');
+
 var countDownTil = new Date('Dec 25, 2018 00:01:00').getTime();
 
 var tick =  setInterval(function() {
