@@ -20,6 +20,11 @@
   border-radius: 2px solid #EA4630;
 }
 
+.card-title {
+  font-size: 22px;
+  color: #BB2528;
+}
+
 .unit {
   margin: 20% 2%;
   font-size: 18px;
