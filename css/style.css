@@ -1,17 +1,18 @@
 .hero {
-  background-color: linear-gradient(40%, green, red);
+  background-color: linear-gradient(40%, #008000, #FF0000);
   background-size: cover; 
   width: 100vw;
   height: 100vh;
 }
 
 .navbar {
-  background-color: #ff0000;
+  background-color: #FF0000;
 }
 
 .navbar-brand {
   font-weight: 700;
-  color: green;
+  color: #008000;
+  text-align: center;
 }
 
 .unit {
@@ -20,6 +21,7 @@
 
 .paragraph {
   text-align: center;
+  width: 50%;
 }
 
 p {
